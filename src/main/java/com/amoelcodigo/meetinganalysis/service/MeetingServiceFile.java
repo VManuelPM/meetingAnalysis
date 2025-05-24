@@ -1,9 +1,6 @@
 package com.amoelcodigo.meetinganalysis.service;
 
 import com.amoelcodigo.meetinganalysis.dto.MeetingAnalysisResponse;
-import com.amoelcodigo.meetinganalysis.service.AudioExtractorService;
-import com.amoelcodigo.meetinganalysis.service.AudioTranscriptionService;
-import com.amoelcodigo.meetinganalysis.service.MeetingService;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
